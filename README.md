@@ -1,1 +1,1 @@
-# django-notes-apps
+# django-notes-app
